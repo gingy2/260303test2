@@ -1,0 +1,5 @@
+team: React2
+
+manager: Anna
+
+members: J
